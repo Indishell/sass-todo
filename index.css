@@ -1,0 +1,36 @@
+.container-fluid {
+  text-align: textAlign;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  background: linear-gradient(to right, #9de42b, #20db68);
+  font-family: font-Type;
+}
+
+#main-heading {
+  width: 100%;
+  text-align: textAlign;
+}
+
+.todo-main {
+  text-align: textAlign;
+  padding: 10px;
+  justify-content: center;
+  display: flex;
+  width: auto;
+  flex-direction: column;
+}
+
+#add-button {
+  margin: 5px;
+  padding: 0.5rem;
+}
+
+#result {
+  background-color: aliceblue;
+}
+
+#status-todo {
+  background-color: indianred;
+}
+
+/*# sourceMappingURL=index.css.map */
